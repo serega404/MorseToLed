@@ -13,7 +13,7 @@
 * Этот репозиторий
 * Добавление поддержки русского языка в библиотеку [MorseSharp](https://github.com/p6laris/MorseSharp)
 
-Для откладки этого проекта я нашёл готовое приложение на android [MorseBuddy](https://github.com/anantaraha/morsebuddy) и с его помощью добился скорости стабильного чтения в 65 у.е.
+Для отладки этого проекта я нашёл готовое приложение на android [MorseBuddy](https://github.com/anantaraha/morsebuddy) и с его помощью добился скорости стабильного чтения в 65 у.е.
 
 Так же вдохновлялся этим проектом, из которого подчеркнул идею считывания на основе яркости пикселя ([ссылка](https://www.codeproject.com/Articles/46174/Computer-Vision-Decoding-a-Morse-Code-Flashing-LED))
 
